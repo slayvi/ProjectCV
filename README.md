@@ -12,3 +12,6 @@ Because the main part of this project was to write a project report and deliver 
 
 Just note that this is merely my template for the CV Project.
 The directories added in this repository are empty because of size restrictions, but the main code can be found here.
+
+
+I am always pleased to receive feedback :) 
